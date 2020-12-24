@@ -1,4 +1,4 @@
 # NhapMonKhoaHocDuLieu
-STT NHÓM:8\n
-1712704 - Nguyễn Phước Quang.\n
+STTN:8
+1712704 - Nguyễn Phước Quang.
 1712892 - Nguyễn Thị Tuyết.
